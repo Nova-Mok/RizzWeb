@@ -1232,7 +1232,7 @@
             $(brandElement).attr("style", fullScreen ? "display: none !important;" : "");
           }
           function createBadge() {
-            var $brand = $('<a class="w-webflow-badg"></a>').attr("href", "https://Flikz.club");
+            var $brand = $('<a class="w-webflow-badg"></a>').attr("href", "https://getflik.club");
             var $logoArt = $("").attr("src", "").attr("alt", "").css({
               marginRight: "4px",
               width: "26px"
