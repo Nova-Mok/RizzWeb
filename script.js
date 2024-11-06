@@ -1512,7 +1512,7 @@
             marginRight: "0px",
             width: "0px"
           });
-          var $logoText = $("<img>").attr("src", "").attr("alt", "Made with love");
+          var $logoText = $("<img>").attr("src", "").attr("alt", "Try Flik Now");
           $brand.append($logoArt, $logoText);
           return $brand[0];
         }
