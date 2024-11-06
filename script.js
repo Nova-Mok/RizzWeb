@@ -1507,7 +1507,7 @@
           $(brandElement).attr("style", fullScreen ? "display: none !important;" : "");
         }
         function createBadge() {
-          var $brand = $('<a class=""></a>').attr("href", "https://webflow.com?utm_campaign=brandjs");
+          var $brand = $('<a class=""></a>').attr("href", "https://getflik.club");
           var $logoArt = $("<img>").attr("src", "https://d3e54v103j8qbb.cloudfront.net/img/webflow-badge-icon-d2.89e12c322e.svg").attr("alt", "").css({
             marginRight: "0px",
             width: "0px"
